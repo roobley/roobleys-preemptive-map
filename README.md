@@ -1,5 +1,3 @@
-## readme
-
 roobley's preemptive map is a successor to lama's practice map that aims to make finding your preemptive spikes easier using a datapack.
 
 ## Why use this new map?
